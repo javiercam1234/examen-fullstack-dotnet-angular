@@ -1,0 +1,20 @@
+<div class="login-wrapper">
+  <div class="login-container">
+    <h2>Iniciar Sesión</h2>
+    <form class="login-form" (ngSubmit)="login()" #loginForm="ngForm" autocomplete="off">
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Usuario</mat-label>
+        <input matInput placeholder="Usuario" [(ngModel)]="username" name="username" required />
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Contraseña</mat-label>
+        <input matInput type="password" placeholder="Contraseña" [(ngModel)]="password" name="password" required />
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" class="full-width" type="submit" [disabled]="loginForm.invalid">
+        Ingresar
+      </button>
+    </form>
+  </div>
+</div>

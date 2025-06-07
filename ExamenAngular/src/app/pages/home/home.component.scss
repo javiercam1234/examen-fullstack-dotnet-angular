@@ -1,0 +1,47 @@
+/* src/app/pages/home/home.component.scss */
+
+:host {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #f0f8ff;
+}
+
+nav {
+  background-color: #1976d2;
+  color: white;
+  padding: 15px;
+  text-align: center;
+
+  a {
+    color: white;
+    margin: 0 10px;
+    font-weight: 500;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Footer fijo abajo */
+footer {
+  background-color: #1976d2;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}

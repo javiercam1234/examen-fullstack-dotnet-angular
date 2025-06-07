@@ -1,0 +1,10 @@
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px 24px; // Espacio interno (margen interno del contenido)
+}
+
+.campo {
+  width: 100%;
+}

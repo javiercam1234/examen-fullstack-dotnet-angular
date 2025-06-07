@@ -1,0 +1,19 @@
+<h2 mat-dialog-title class="titulo">
+  <mat-icon [style.color]="iconColor" class="icono">{{ icono }}</mat-icon>
+  {{ data.titulo || 'Mensaje' }}
+</h2>
+
+<mat-dialog-content class="contenido">
+  <p class="mensaje">{{ data.mensaje }}</p>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <ng-container *ngIf="data.tipo === 'confirmacion'; else soloCerrar">
+    <button mat-button (click)="cerrar(false)">No</button>
+    <button mat-raised-button color="primary" (click)="cerrar(true)">Sí</button>
+  </ng-container>
+
+  <ng-template #soloCerrar>
+    <button mat-button (click)="cerrar()">Cerrar</button>
+  </ng-template>
+</mat-dialog-actions>

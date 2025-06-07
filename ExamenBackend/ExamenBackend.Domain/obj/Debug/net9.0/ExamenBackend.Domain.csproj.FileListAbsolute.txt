@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\bin\Debug\net9.0\ExamenBackend.Domain.deps.json
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\bin\Debug\net9.0\ExamenBackend.Domain.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\bin\Debug\net9.0\ExamenBackend.Domain.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\refint\ExamenBackend.Domain.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ExamenBackend.Domain.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Domain\obj\Debug\net9.0\ref\ExamenBackend.Domain.dll

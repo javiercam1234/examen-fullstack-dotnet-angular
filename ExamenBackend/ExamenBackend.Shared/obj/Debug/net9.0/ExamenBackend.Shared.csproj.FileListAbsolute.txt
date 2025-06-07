@@ -1,0 +1,11 @@
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\bin\Debug\net9.0\ExamenBackend.Shared.deps.json
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\bin\Debug\net9.0\ExamenBackend.Shared.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\bin\Debug\net9.0\ExamenBackend.Shared.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\refint\ExamenBackend.Shared.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ExamenBackend.Shared.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Shared\obj\Debug\net9.0\ref\ExamenBackend.Shared.dll

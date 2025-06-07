@@ -1,0 +1,6 @@
+@ExamenBackend.Api_HostAddress = http://localhost:5285
+
+GET {{ExamenBackend.Api_HostAddress}}/ /
+Accept: application/json
+
+###

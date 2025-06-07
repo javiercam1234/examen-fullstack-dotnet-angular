@@ -1,0 +1,16 @@
+<nav>
+  <a routerLink="/home/inicio">inicio</a> |
+  <a routerLink="/home/default">default</a> |
+  <a routerLink="/home/personas">Personas</a> |
+  <a routerLink="/home/puestos">Puestos</a> |
+  <a routerLink="/home/contacto">Contacto</a> |
+  <a (click)="logout()">Cerrar Sesión</a>
+</nav>
+
+<main>
+  <router-outlet></router-outlet> <!-- Solo este -->
+</main>
+
+<footer>
+  Hora actual: {{ horaActual }}
+</footer>

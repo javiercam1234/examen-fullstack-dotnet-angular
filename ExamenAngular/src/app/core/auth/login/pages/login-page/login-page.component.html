@@ -1,0 +1,15 @@
+<div class="login-container">
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <h2>Iniciar Sesión</h2>
+
+    <label for="username">Usuario</label>
+    <input id="username" formControlName="username" type="email" />
+
+    <label for="password">Contraseña</label>
+    <input id="password" formControlName="password" type="password" />
+
+    <button type="submit" [disabled]="loginForm.invalid">Iniciar sesión</button>
+  </form>
+</div>
+
+<button mat-button>Botón Material</button>

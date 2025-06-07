@@ -1,0 +1,41 @@
+<h1 mat-dialog-title>{{ data?.idPersona ? 'Editar Persona' : 'Nueva Persona' }}</h1>
+
+<mat-dialog-content class="formulario">
+  <form [formGroup]="form">
+    <mat-form-field appearance="fill" class="campo">
+      <mat-label>Nombre</mat-label>
+      <input matInput formControlName="nombre" />
+      <mat-error *ngIf="form.get('nombre')?.hasError('required')">El nombre es obligatorio</mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="campo">
+      <mat-label>Edad</mat-label>
+      <input matInput formControlName="edad" type="number" />
+      <mat-error *ngIf="form.get('edad')?.hasError('required')">La edad es obligatoria</mat-error>
+      <mat-error *ngIf="form.get('edad')?.hasError('min')">La edad debe ser mayor o igual a 0</mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="campo">
+      <mat-label>Teléfono</mat-label>
+      <input matInput formControlName="telefono" />
+      <mat-error *ngIf="form.get('telefono')?.hasError('required')">El teléfono es obligatorio</mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="campo">
+      <mat-label>Puesto</mat-label>
+      <mat-select formControlName="idPuesto">
+        <mat-option *ngFor="let puesto of puestos" [value]="puesto.idPuesto">
+          {{ puesto.descripcionPuesto }}
+        </mat-option>
+      </mat-select>
+      <mat-error *ngIf="form.get('idPuesto')?.hasError('required')">El puesto es obligatorio</mat-error>
+    </mat-form-field>
+  </form>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <button mat-raised-button color="primary" (click)="save()" [disabled]="form.invalid || isSubmitting">
+    Guardar
+  </button>
+  <button mat-raised-button type="button" (click)="close()">Cancelar</button>
+</mat-dialog-actions>

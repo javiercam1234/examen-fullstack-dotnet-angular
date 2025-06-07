@@ -1,0 +1,22 @@
+.contenido {
+  max-width: 480px;   // límite de ancho
+  padding: 16px 24px; // espacio interno
+  margin: 0 auto;     // centra horizontalmente
+  text-align: center;
+}
+
+.titulo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 24px;
+  font-size: 20px;
+}
+
+.icono {
+  font-size: 28px;
+}
+
+mat-dialog-actions {
+  padding: 8px 24px 16px;
+}

@@ -1,0 +1,15 @@
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\bin\Debug\net9.0\ExamenBackend.Application.deps.json
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\bin\Debug\net9.0\ExamenBackend.Application.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\bin\Debug\net9.0\ExamenBackend.Application.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\bin\Debug\net9.0\ExamenBackend.Domain.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\bin\Debug\net9.0\ExamenBackend.Domain.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBa.CDC3D3D1.Up2Date
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\refint\ExamenBackend.Application.dll
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ExamenBackend.Application.pdb
+C:\Users\Javier\source\repos\Examen Full Stack dotnet Angular\ExamenBackend\ExamenBackend.Application\obj\Debug\net9.0\ref\ExamenBackend.Application.dll
